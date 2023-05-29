@@ -1,9 +1,5 @@
-using Microsoft.AspNetCore.Authentication;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
 using Octokit;
-using Swashbuckle.Swagger;
 using TesteTerraInvest.Interfaces;
 using TesteTerraInvest.Services;
 
